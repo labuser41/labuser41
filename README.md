@@ -7,6 +7,6 @@
   - [VPNs: Testing the connection](https://github.com/labuser41/test-connect)
 - <b>Microsoft Azure Compute and Networking</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/labuser41/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/labuser41/azure-network-protocols-)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/labuser41/azure-protocols)
 
 
